@@ -1,0 +1,32 @@
+{
+  "Places": [
+    {
+      "Id": 6145,
+      "ParentId": 115,
+      "Code": "PDX",
+      "Type": "City",
+      "Name": "ポートランド"
+    },
+    {
+      "Id": 14213,
+      "ParentId": 5186,
+      "Code": "MNL",
+      "Type": "Airport",
+      "Name": "マニラ (ニノイ・アキノ)"
+    },
+    {
+      "Id": 13068,
+      "ParentId": 5965,
+      "Code": "KIX",
+      "Type": "Airport",
+      "Name": "大阪 関西国際"
+    },
+    {
+      "Id": 5772,
+      "ParentId": 115,
+      "Code": "NYC",
+      "Type": "City",
+      "Name": "ニューヨーク"
+    }
+  ]
+}
